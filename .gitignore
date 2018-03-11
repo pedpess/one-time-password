@@ -3,3 +3,4 @@ node_modules/
 
 # JSON files
 functions/service_account.json
+functions/twilio_config.json
