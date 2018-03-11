@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# JSON files
+functions/service_account.json
